@@ -1,2 +1,63 @@
-# atividade-es
+# Projeto: Sistema de Gerenciamento de Tarefas
+
+---
+
+## Descrição do Sistema
+
+O Sistema de Gerenciamento de Tarefas tem como objetivo ajudar usuários a organizar suas atividades diárias, permitindo registrar tarefas, definir prioridades e acompanhar o progresso das atividades.
+
+Este sistema pode ser utilizado por estudantes, profissionais e equipes de trabalho que desejam melhorar sua organização.
+
+---
+
+## Principais Funcionalidades
+
+As funcionalidades primárias do sistema incluem:
+
+*   Criar novas tarefas
+
+*   Editar tarefas existentes
+
+*   Marcar tarefas como concluídas
+
+*   Visualizar lista de tarefas
+
+*   Definir prioridade das tarefas
+
+---
+
+## Equipe do Projeto
+
+A equipe responsável pelo desenvolvimento é composta por:
+
+*   **João Silva**
+
+*   **Maria Oliveira**
+
+*   **Carlos Souza**
+
+*   **Ana Pereira**
+
+---
+
+## Tecnologias Utilizadas
+
+As tecnologias empregadas no desenvolvimento do sistema são detalhadas abaixo:
+
+| Categoria | Tecnologia |
+
+|---|---|
+
+| Linguagem de programação | JavaScript |
+
+| Banco de dados | PostgreSQL |
+
+| Interface | HTML e CSS |
+
+---
+
+## Observação
+
+Este repositório foi criado para fins de aprendizado sobre **GitHub** e **Markdown**.
+
 
