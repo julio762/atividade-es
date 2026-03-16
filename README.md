@@ -45,8 +45,11 @@ A equipe responsável pelo desenvolvimento é composta por:
 ## Tecnologias Utilizadas
 
 |-------------------------------------|-------------------|  
+
 | Linguagem de programação: JavaScript| JavaScript        |  
+
 | Banco de dados: PostgreSQL          | PostgreSQL        |  
+
 | Interface: HTML e CSS               | HTML e CSS        |  
 
 
