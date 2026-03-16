@@ -1,3 +1,5 @@
+
+
 # Projeto: Sistema de Gerenciamento de Tarefas
 
 ---
@@ -59,5 +61,3 @@ As tecnologias empregadas no desenvolvimento do sistema são detalhadas abaixo:
 ## Observação
 
 Este repositório foi criado para fins de aprendizado sobre **GitHub** e **Markdown**.
-
-
