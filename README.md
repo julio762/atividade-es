@@ -44,16 +44,11 @@ A equipe responsável pelo desenvolvimento é composta por:
 
 ## Tecnologias Utilizadas
 
-As tecnologias empregadas no desenvolvimento do sistema são detalhadas abaixo:
+|------------------------------------|-------------------|
+|Linguagem de programação: JavaScript|JavaScript         |
+|Banco de dados: PostgreSQL          | PostgreSQL        |
+|Interface: HTML e CSS               | HTML e CSS        |
 
-| Categoria | Tecnologia |
-|-------------------------|
-
-| Linguagem de programação | JavaScript |
-|-------------------------|
-| Banco de dados | PostgreSQL |
-|-------------------------|
-| Interface | HTML e CSS |
 
 ---
 
