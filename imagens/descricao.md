@@ -1,1 +1,1 @@
-
+Imagem de paisagem
