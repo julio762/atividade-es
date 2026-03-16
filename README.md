@@ -48,8 +48,6 @@ As tecnologias empregadas no desenvolvimento do sistema são detalhadas abaixo:
 
 | Categoria | Tecnologia |
 
-|---|---|
-
 | Linguagem de programação | JavaScript |
 
 | Banco de dados | PostgreSQL |
